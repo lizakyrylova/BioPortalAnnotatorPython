@@ -1,0 +1,39 @@
+Term,Match,Completeness,Ontology,IRI
+endocrine system diseases,ENDOCRINE SYSTEM DISEASE,Component,DOID,http://purl.obolibrary.org/obo/DOID_28
+endocrine system diseases,ENDOCRINE SYSTEM DISEASES,Complete,MESH,http://purl.bioontology.org/ontology/MESH/D004700
+alzheimer disease,ALZHEIMER DISEASE,Complete,DOID,http://purl.obolibrary.org/obo/DOID_10652
+alzheimer disease,ALZHEIMER DISEASE,Complete,MESH,http://purl.bioontology.org/ontology/MESH/D000544
+"ovarian failure, premature","OVARIAN FAILURE, PREMATURE",Complete,MESH,http://purl.bioontology.org/ontology/MESH/D016649
+spinal fractures,SPINAL FRACTURES,Complete,MESH,http://purl.bioontology.org/ontology/MESH/D016103
+gastrointestinal cancer,INTESTINAL CANCER,Component,DOID,http://purl.obolibrary.org/obo/DOID_10155
+gastrointestinal cancer,GASTROINTESTINAL CANCER,Complete,MESH,http://purl.bioontology.org/ontology/MESH/D005770
+lichen sclerosus et atrophicus,LICHEN SCLEROSUS ET ATROPHICUS,Complete,MESH,http://purl.bioontology.org/ontology/MESH/D018459
+mobility limitation,MOBILITY LIMITATION,Complete,MESH,http://purl.bioontology.org/ontology/MESH/D051346
+crest syndrome,CREST SYNDROME,Complete,DOID,http://purl.obolibrary.org/obo/DOID_0060218
+crest syndrome,CREST SYNDROME,Complete,MESH,http://purl.bioontology.org/ontology/MESH/D017675
+macular degeneration,MACULAR DEGENERATION,Complete,DOID,http://purl.obolibrary.org/obo/DOID_4448
+macular degeneration,MACULAR DEGENERATION,Complete,MESH,http://purl.bioontology.org/ontology/MESH/D008268
+"jaundice, obstructive",JAUNDICE,Partial,DOID,http://purl.obolibrary.org/obo/SYMP_0000539
+"jaundice, obstructive","JAUNDICE, OBSTRUCTIVE",Complete,MESH,http://purl.bioontology.org/ontology/MESH/D041781
+cystic fibrosis,CYSTIC FIBROSIS,Complete,DOID,http://purl.obolibrary.org/obo/DOID_1485
+cystic fibrosis,CYSTIC FIBROSIS,Complete,MESH,http://purl.bioontology.org/ontology/MESH/D003550
+"leukemia, myelogenous, chronic, bcr abl positive",LEUKEMIA,Partial,DOID,http://purl.obolibrary.org/obo/DOID_1240
+"leukemia, myelogenous, chronic, bcr abl positive","LEUKEMIA, MYELOGENOUS, CHRONIC",Component,MESH,http://purl.bioontology.org/ontology/MESH/D015464
+thyroid cancer thyroid carcinoma,THYROID CANCER,Component,DOID,http://purl.obolibrary.org/obo/DOID_1781
+thyroid cancer thyroid carcinoma,THYROID CARCINOMA,Component,DOID,http://purl.obolibrary.org/obo/DOID_3963
+thyroid cancer thyroid carcinoma,THYROID CANCER,Component,MESH,http://purl.bioontology.org/ontology/MESH/D013964
+pediatric cystic fibrosis,CYSTIC FIBROSIS,Component,DOID,http://purl.obolibrary.org/obo/DOID_1485
+pediatric cystic fibrosis,CYSTIC FIBROSIS,Component,MESH,http://purl.bioontology.org/ontology/MESH/D003550
+hemolysis,HEMOLYSIS,Complete,DOID,http://purl.obolibrary.org/obo/SYMP_0000294
+hemolysis,HEMOLYSIS,Complete,MESH,http://purl.bioontology.org/ontology/MESH/D006461
+granuloma,GRANULOMA,Complete,DOID,http://purl.obolibrary.org/obo/HP_0032252
+granuloma,GRANULOMA,Complete,MESH,http://purl.bioontology.org/ontology/MESH/D006099
+anaplastic thyroid carcinoma,ANAPLASTIC THYROID CARCINOMA,Complete,DOID,http://purl.obolibrary.org/obo/DOID_0080522
+anaplastic thyroid carcinoma,ANAPLASTIC THYROID CARCINOMA,Complete,MESH,http://purl.bioontology.org/ontology/MESH/D065646
+brain cancer glioblastoma multiforme,BRAIN CANCER,Component,DOID,http://purl.obolibrary.org/obo/DOID_1319
+brain cancer glioblastoma multiforme,GLIOBLASTOMA MULTIFORME,Component,DOID,http://purl.obolibrary.org/obo/DOID_3068
+brain cancer glioblastoma multiforme,BRAIN CANCER,Component,MESH,http://purl.bioontology.org/ontology/MESH/D001932
+brain cancer glioblastoma multiforme,GLIOBLASTOMA MULTIFORME,Component,MESH,http://purl.bioontology.org/ontology/MESH/D005909
+"rhabdomyosarcoma, alveolar",RHABDOMYOSARCOMA,Partial,DOID,http://purl.obolibrary.org/obo/DOID_3247
+"rhabdomyosarcoma, alveolar","RHABDOMYOSARCOMA, ALVEOLAR",Complete,MESH,http://purl.bioontology.org/ontology/MESH/D018232
+"arrhythmias, cardiac","ARRHYTHMIAS, CARDIAC",Complete,MESH,http://purl.bioontology.org/ontology/MESH/D001145

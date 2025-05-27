@@ -1,4 +1,5 @@
-#Disease Annotator
+# Disease Annotator
+
 This repository contains a Python script (`bioportal_annotator.py`) designed to annotate biomedical terms (such as diseases or drugs) using the [NCBO BioPortal Annotator API](https://bioportal.bioontology.org/annotator). It maps terms to standard biomedical ontology IDs.
 
 ## Repository Structure
